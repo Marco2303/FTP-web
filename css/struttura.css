@@ -1,0 +1,26 @@
+/* 
+    Document   : struttura
+    Created on : 11-lug-2011, 20.38.21
+    Author     : MTosti
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root {display: block}
+
+body {background: azure; text-align: center}
+
+.centra_form {text-align: left;width: 500px;margin-left: auto;margin-right: auto;height: 500px;margin-top: auto;margin-bottom: auto }
+
+.errore_autentica {color: red}
+
+.testata_centro {text-align: center ;width: 800px;margin-left: auto;margin-right: auto;height: 70px;margin-bottom: auto;margin-top: auto;left: auto;right: auto}
+
+.box_centrale {text-align: center;width: 800px;margin-left: auto;margin-right: auto;height: 500px;margin-top: auto;margin-bottom: auto}
+
+.selziona_ftp {text-align: left}
