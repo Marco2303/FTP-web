@@ -21,7 +21,6 @@ function Generatore(){
  function estrai_byte($string){
         #Questa funzione estrae le informzioni da una riga della lista generata da accedi_ftp e le
         #inserisce in semplici variabili
-
        $byte_file = trim(substr($string, 33,10));
        return $byte_file;
 
